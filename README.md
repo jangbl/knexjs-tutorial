@@ -4,9 +4,16 @@ This tutorial demonstrates how to connect to a [Postgres](https://www.postgresql
 
 It also demonstrates how to create database migrations with the [knex.js](http://knexjs.org) migration tool.
 
-It uses
 
-# 2. How to run this application
+<h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
+
+This repository is contains the code for the [Node knex.js tutorial on Youtube](https://www.youtube.com/playlist?list=PL1Nml43UBm6eTkjJtAPfdfjk-x2I_1r-Y)
+
+[![Test Node with Docker](images/node-knex-js-tutorial.png)](https://www.youtube.com/playlist?list=PL1Nml43UBm6eTkjJtAPfdfjk-x2I_1r-Y)
+
+
+
+# How to run this application
 
 You can run the project locally with your own local [Postgres](https://www.postgresql.org) instance
 
