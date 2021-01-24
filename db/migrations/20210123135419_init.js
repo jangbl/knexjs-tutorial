@@ -1,3 +1,4 @@
+// npx knex migrate:make init --migrations-directory db/migrations
 exports.up = function (knex) {
   return knex.schema.createTable('person', (table) => {
     table.increments('id');

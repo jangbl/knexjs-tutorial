@@ -7,9 +7,9 @@ It also demonstrates how to create database migrations with the [knex.js](http:/
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
-This repository is contains the code for the [Node knex.js tutorial on Youtube](https://www.youtube.com/playlist?list=PL1Nml43UBm6eTkjJtAPfdfjk-x2I_1r-Y)
+This repository is contains the code for the [Node knex.js tutorial on Youtube](https://www.youtube.com/watch?v=wfrn21E2NaU)
 
-[![Test Node with Docker](images/node-knex-js-tutorial.png)](https://www.youtube.com/playlist?list=PL1Nml43UBm6eTkjJtAPfdfjk-x2I_1r-Y)
+[![Test Node with Docker](images/node-knex-js-tutorial.png)](https://www.youtube.com/watch?v=wfrn21E2NaU)
 
 
 
