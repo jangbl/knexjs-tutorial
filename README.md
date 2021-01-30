@@ -42,7 +42,7 @@ For other operating systems, please check the [Postgres website](https://www.pos
 Make sure to update the configuration app with your database credentials in the `../db/knexfile.js` file.
 There you need to specify the `user`, `password` (per default no password required) and the `database` you want to connect to.
 
-The default database we try to connect to is called `knexjs_tutorial`. Please make sure it exists in your local Postgres instance. You can either use a UI like [PgAdmin](https://www.pgadmin.org) to create the database or you can do so with `psql`
+The default database we try to connect to is called `knexjs_tutorial`. Please make sure it exists in your local [Postgres](https://www.postgresql.org) instance. You can either use a UI like [PgAdmin](https://www.pgadmin.org) to create the database or you can do so with `psql`
 
 ```
 psql -h localhost -U <your-username> postgres
@@ -65,7 +65,7 @@ create database knexjs_tutorial;
 
 ## Execute database migration
 
-Once you have installed Postgres and updated the credentials in the `./db/knexfile.js`, you can run the initial migration
+Once you have installed [Postgres](https://www.postgresql.org) and updated the credentials in the `./db/knexfile.js`, you can run the initial migration
 to create the database schema with.
 
 ```
