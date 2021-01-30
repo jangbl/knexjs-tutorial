@@ -30,6 +30,11 @@ and start it with
 brew services start postgres
 ```
 
+You can stop [Postgres](https://www.postgresql.org) with
+```
+brew services stop postgres
+```
+
 For other operating systems, please check the [Postgres website](https://www.postgresql.org/download/).
 
 ### Database setup
