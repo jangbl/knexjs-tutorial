@@ -12,6 +12,8 @@ This repository is contains the code for the [Node knex.js tutorial on Youtube](
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
+For updates, please follow [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
+
 # How to run this application
 
 This application needs a local [Postgres](https://www.postgresql.org) instance.
